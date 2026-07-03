@@ -1,0 +1,8 @@
+Create a Local Repository
+Create a project folder.
+mkdir GitDemo
+cd GitDemo
+Initialize Git.
+git init
+Output:
+Initialized empty Git repository
